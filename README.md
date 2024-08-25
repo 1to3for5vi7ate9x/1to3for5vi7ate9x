@@ -36,4 +36,4 @@ I'm always excited to explore new ideas and possibilities, whether it's in tech,
 
 ---
 
-⭐️ [Follow me on GitHub](https://github.com/yourusername) for more cool projects and updates!
+⭐️ [Follow me on GitHub](https://github.com/1to3for5vi7ate9x) for more cool projects and updates!
