@@ -19,7 +19,7 @@ Here are some of the projects I'm working on:
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, C++
+- **Languages**: Python, JavaScript, C++, Go
 - **AI/ML**: TensorFlow, PyTorch
 - **Web Development**: HTML, CSS, React.js,Next.js,Three.js
 - **Databases**: MySQL, MongoDB, AstroDB
