@@ -15,7 +15,7 @@ I'm a Computer Science Engineering student with a passion for exploring the inte
 Here are some of the projects I'm working on:
 
 - **Neuromind**: An ambitious AI project aimed at creating a continuously learning neural network.  
-- **Hearing Research**: A research paper on the impact of increased earphone and earbud usage on the hearing of today's youth.
+
 
 ### 🛠️ Technologies & Tools
 
