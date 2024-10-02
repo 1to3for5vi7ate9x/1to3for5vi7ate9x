@@ -1,6 +1,6 @@
 # Hi there, I'm Ankit! 👋
 
-### 🚀 About Me
+ About Me
 
 I'm a Computer Science Engineering student with a passion for exploring the intersections of technology, science, and creativity. I'm particularly interested in:
 
